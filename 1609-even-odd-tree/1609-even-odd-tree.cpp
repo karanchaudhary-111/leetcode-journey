@@ -33,10 +33,7 @@ public:
 
         levelPrev[level] = root ->val;
 
-        bool l = solve(root -> left, level + 1);
-        bool r = solve(root -> right, level + 1);
-
-        return l && r;
+        return solve(root -> left, level+1) && solve(root -> right, level+1);
     }
     bool isEvenOddTree(TreeNode* root) {
         return solve(root, 0);
