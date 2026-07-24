@@ -14,7 +14,6 @@ public:
         return root;
     }
     TreeNode* removeLeafNodes(TreeNode* root, int target) {
-        if(!root) return NULL;
 
         return solve(root, target);
         
