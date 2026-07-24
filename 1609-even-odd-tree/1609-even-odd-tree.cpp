@@ -1,49 +1,44 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    bool isEvenOddTree(TreeNode* root) {
-        int level = 0;
+
+    vector<int> levelPrev;
+
+    bool solve(TreeNode* root, int level){
 
         if(!root) return true;
 
-        queue<TreeNode*> q;
-        q.push(root);
+        if(level % 2 == root -> val % 2) return false;
 
-        while(!q.empty()){
-            int n = q.size();
-
-            int prev = (level % 2 == 0) ? INT_MIN : INT_MAX;
-
-            while(n--){
-                TreeNode* temp = q.front();
-                q.pop();
-                
-                if(level % 2 == 0){
-                    
-                    if(temp -> val % 2 == 0)return false;
-
-                    if(prev >= temp -> val) return false;
-
-                }else{
-
-                    if(temp -> val % 2 != 0)return false;
-
-                    if(prev <= temp -> val) return false;
-
-                }
-
-                prev = temp -> val;
-                
-                if(temp -> left != NULL){
-                    q.push(temp -> left);
-                }
-
-                if(temp -> right != NULL){
-                    q.push(temp -> right);
-                }
-            }
-            level++;
+        if(level >= levelPrev.size()){
+            levelPrev.resize(level+1);
         }
 
-        return true;  
+        if(levelPrev[level] != 0){
+
+            if(level % 2 == 0 && levelPrev[level] >= root -> val)return false;
+
+            if(level % 2 != 0 && levelPrev[level] <= root -> val) return false;
+        }
+
+        levelPrev[level] = root ->val;
+
+        bool l = solve(root -> left, level + 1);
+        bool r = solve(root -> right, level + 1);
+
+        return l && r;
+    }
+    bool isEvenOddTree(TreeNode* root) {
+        return solve(root, 0);
     }
 };
