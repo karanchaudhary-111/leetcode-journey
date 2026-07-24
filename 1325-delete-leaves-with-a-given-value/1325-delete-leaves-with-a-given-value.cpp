@@ -8,8 +8,8 @@ public:
         root -> left = solve(root -> left, target);
         root -> right = solve(root -> right, target);
 
-        if(root -> left == NULL && root -> right == NULL && root -> val == target){
-            return NULL;
+        if(root -> left == NULL && root -> right == NULL){
+            if(root -> val == target) return NULL;
         }
         return root;
     }
