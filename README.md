@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Sorting
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
+## Linked List
+|  |
+| ------- |
+| [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
