@@ -26,6 +26,8 @@ public:
         
         if(!root) return false;
 
-        return solve(head, root) || isSubPath(head, root -> left) || isSubPath(head, root -> right);
+        if(solve(head, root)) return true;
+
+        return isSubPath(head, root -> left) || isSubPath(head, root -> right);
     }
 };
