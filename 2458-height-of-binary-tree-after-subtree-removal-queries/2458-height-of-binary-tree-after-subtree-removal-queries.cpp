@@ -1,10 +1,10 @@
 class Solution {
 public:
 
-    int storeLVL[1000001];
-    int height[1000001];
-    int levelMaxHt[1000001];
-    int levelSecMaxHt[1000001];
+    int storeLVL[100001];
+    int height[100001];
+    int levelMaxHt[100001];
+    int levelSecMaxHt[100001];
 
     int findHeight(TreeNode* root, int level){
         if(!root) return 0;
