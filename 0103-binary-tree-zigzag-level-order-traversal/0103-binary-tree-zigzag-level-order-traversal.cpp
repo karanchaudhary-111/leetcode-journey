@@ -11,21 +11,20 @@ public:
 
         while(!q.empty()){
             int n = q.size(); 
-            vector<int> tempResult(n);
-            int i = 0;
+            vector<int> tempResult;
 
-            while(i < n){
+            while(n--){
                 TreeNode* curr = q.front();
                 q.pop();
 
-                int index = leftToRight ? i : (n - 1 - i);
-                tempResult[index] = curr->val;
+                tempResult.push_back(curr -> val);
 
                 if(curr -> left) q.push(curr -> left);
                 if(curr -> right) q.push(curr -> right);
 
-                i++;
-
+            }
+            if(leftToRight == false){
+                reverse(tempResult.begin(), tempResult.end());
             }
             leftToRight = !leftToRight;
             ans.push_back(tempResult);
