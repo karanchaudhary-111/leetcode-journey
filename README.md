@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
