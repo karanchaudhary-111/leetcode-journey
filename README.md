@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Array
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Sorting
