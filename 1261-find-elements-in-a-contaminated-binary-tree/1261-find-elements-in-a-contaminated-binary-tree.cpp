@@ -11,28 +11,27 @@
  */
 class FindElements {
 public:
-    TreeNode* newRoot = new TreeNode(0);
-    bool DFS(TreeNode* &root, int x, int target){
-        if(!root) return false;
+    unordered_set<int> set;
+    void DFS(TreeNode* &root, int x){
+        if(!root) return ;
 
         root -> val = x;
-        
-        if(root -> val == target){
-            return true;
-        }
+        set.insert(x);
 
-        bool l = DFS(root -> left, 2*x + 1, target);
-        bool r = DFS(root -> right, 2*x + 2, target);
-
-        return l || r;
+        DFS(root -> left, 2*x + 1);
+        DFS(root -> right, 2*x + 2);
 
     }
     FindElements(TreeNode* root) {
-        newRoot = root;
+        DFS(root, 0);
     }
     
     bool find(int target) {
-       return DFS(newRoot, 0, target);
+        if(set.count(target)){
+            return true;
+        }
+
+        return false;
     }
 };
 
