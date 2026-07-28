@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Array
 |  |
