@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
