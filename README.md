@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -109,8 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Design
 |  |
 | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
