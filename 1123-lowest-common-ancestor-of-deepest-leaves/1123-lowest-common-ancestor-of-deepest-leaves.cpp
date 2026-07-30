@@ -1,21 +1,24 @@
 class Solution {
 public:
-    pair<TreeNode* , int>dfs(TreeNode*root)
-    {
-        if(root == NULL)
-        return {NULL , 0};
 
-        auto left = dfs(root->left);
-        auto right = dfs(root->right);
-        if(left.second > right.second)
-        return {left.first , left.second + 1};
-        if(right.second > left.second)
-        {
-            return {right.first , right.second + 1};
+    pair<int, TreeNode*> solve(TreeNode* root){
+        if(!root) return {0, NULL};
+
+        pair<int, TreeNode*> l = solve(root -> left);
+        pair<int, TreeNode*> r = solve(root -> right);
+
+        if(l.first == r.first){
+            return {l.first+1, root};
         }
-        return {root , left.second+1};
+
+        if(l.first > r.first){
+            return {l.first+1, l.second};
+        }else{
+            return {r.first+1, r.second};
+        }
     }
+
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        return dfs(root).first ;
+        return solve(root).second;
     }
 };
