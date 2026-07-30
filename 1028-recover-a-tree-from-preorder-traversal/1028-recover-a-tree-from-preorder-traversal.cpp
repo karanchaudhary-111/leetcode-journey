@@ -1,52 +1,42 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    TreeNode* solve(string s, int &i, int depth , int n){
+    TreeNode* recoverFromPreorder(string traversal) {
+        stack<TreeNode*> st;
+        int i = 0;
+        TreeNode* root = nullptr;
 
-        if(i >= n ) return NULL;
+        while (i < traversal.size()) {
+            int depth = 0;
+            while (i < traversal.size() && traversal[i] == '-') {
+                depth++;
+                i++;
+            }
 
-        int j = i;
+            int val = 0;
+            while (i < traversal.size() && isdigit(traversal[i])) {
+                val = val * 10 + (traversal[i] - '0');
+                i++;
+            }
 
-        while(j < n && s[j] == '-' ){
-            j++;
+            TreeNode* node = new TreeNode(val);
+
+            if (depth == 0) {
+                root = node;
+            } else {
+                while (st.size() > depth)
+                    st.pop();
+
+                TreeNode* parent = st.top();
+
+                if (!parent->left)
+                    parent->left = node;
+                else
+                    parent->right = node;
+            }
+
+            st.push(node);
         }
-
-        int dash = j - i;
-
-        if(depth != dash){
-            return NULL;
-        }
-        i = j;
-
-        int num = 0;
-        while(i < n && isdigit(s[i])){
-            num = num * 10  + (s[i] - '0');
-            i++;
-        }
-
-        TreeNode* root = new TreeNode (num);
-
-        root -> left = solve(s, i, depth+1, n);
-        root -> right = solve(s, i, depth + 1, n);
 
         return root;
-    }
-    TreeNode* recoverFromPreorder(string traversal) {
-
-        int n = traversal.size();
-        int i = 0;
-
-        return solve(traversal, i, 0, n);
-        
     }
 };
