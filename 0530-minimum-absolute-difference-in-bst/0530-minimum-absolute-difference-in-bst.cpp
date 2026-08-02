@@ -1,18 +1,21 @@
 class Solution {
 public:
-    TreeNode* prev = nullptr;
     int ans = INT_MAX;
-    int getMinimumDifference(TreeNode* root) {
-        dfs(root);
-        return ans;
-    }
-    void dfs(TreeNode* root) {
-        if (root == nullptr) return;
-        dfs(root->left);
-        if (prev != nullptr) {
-            ans = min(ans,root->val - prev->val);
+    int prev = -1;
+
+    void inorder(TreeNode* root) {
+        if (root == NULL)
+            return;
+        inorder(root->left);
+        if (prev != -1) {
+            ans = min(ans, root->val - prev);
         }
-        prev = root;
-        dfs(root->right);
+        prev = root->val;
+        inorder(root->right);
+    }
+    
+    int getMinimumDifference(TreeNode* root) {
+        inorder(root);
+        return ans;
     }
 };
