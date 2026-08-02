@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
