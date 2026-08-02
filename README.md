@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
@@ -178,5 +182,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
