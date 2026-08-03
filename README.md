@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -179,9 +182,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
