@@ -8,17 +8,22 @@ public:
         int maxi = -1;
         int mini = 101;
 
-        set<int> st;
-
         for(int i = 0; i < n; i++){
             maxi = max(maxi, nums[i]);
             mini = min(mini, nums[i]);
-            st.insert(nums[i]);
         }
 
-        for(int i = mini+1; i < maxi; i++){
-            if(st.count(i) == 0){
-                ans.push_back(i);
+        int m = maxi - mini + 1;
+
+        vector<int> arr(m, -1);
+
+        for(int i = 0; i < n; i++){
+            arr[nums[i] - mini] = nums[i] - mini;
+        }
+
+        for(int i = 0; i < m; i++){
+            if(arr[i] == -1){
+                ans.push_back(i + mini);
             }
         }
 
