@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0951-flip-equivalent-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Minimax
 |  |
 | ------- |
