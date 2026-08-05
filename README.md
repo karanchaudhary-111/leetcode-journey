@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1609-even-odd-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1609-even-odd-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -173,9 +176,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 ## Minimax
 |  |
 | ------- |
