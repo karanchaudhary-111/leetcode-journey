@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3310-remove-methods-from-project) |
 ## Sorting
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
