@@ -1,27 +1,23 @@
 class Solution {
 public:
     vector<int> validSequence(string word1, string word2) {
-        int n = word1.length(), m = word2.length();
-        vector<int> last(m, -1);
-        int j = m - 1;
-        for (int i = n - 1; i >= 0; --i) {
-            if (j >= 0 && word1[i] == word2[j]) {
-                last[j] = i;
-                j -= 1;
-            }
+        int m = word1.size(), n = word2.size();
+        vector<int> suf(n + 1, -1);
+        suf[n] = m;
+        for (int i = m - 1, j = n - 1; i >= 0; i--) {
+            if (word1[i] == word2[j]) suf[j--] = i;
+            if (j < 0) break;
         }
-        vector<int> res;
-        int skip = 0;
-        j = 0;
-        for (int i = 0; i < n; ++i) {
-            if (j == m) break;
-            if (word1[i] == word2[j] ||
-                (skip == 0 && (j == m - 1 || i < last[j + 1]))) {
-                skip += (word1[i] != word2[j] ? 1 : 0);
-                res.push_back(i);
-                j += 1;
+        vector<int> res(n);
+        bool changed = false;
+        for (int i = 0, j = 0; i < m; i++) {
+            if (word1[i] == word2[j]) res[j++] = i;
+            else if (!changed && i < suf[j + 1]) {
+                changed = true;
+                res[j++] = i;
             }
+            if (j == n) return res;
         }
-        return j == m ? res : vector<int>();
+        return {};
     }
 };
