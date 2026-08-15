@@ -4,17 +4,17 @@ public:
 
         int solve = 0;
         int n = nums.size();
+        bool nonZero = false;
 
         for(int x : nums){
             solve =  solve ^ x;
+            if(solve != 0){
+                nonZero = true;
+            }
         }
 
         if(solve != 0) return n;
 
-        for(int x : nums){
-            if(x != 0) return n-1;
-        }
-
-        return 0;
+        return nonZero ? n - 1 : 0;
     }
 };
