@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool stoneGameIX(vector<int>& stones) {
-        int cnt[3] = {0};
-        for (int x : stones)
-            cnt[x % 3]++;
-
-        if (cnt[0] % 2 == 0)
-            return cnt[1] > 0 && cnt[2] > 0;
-        return abs(cnt[1] - cnt[2]) > 2;
+        int freq[3]={0};
+        for(int x: stones){
+            freq[x%3]++;
+        }
+        const bool f0=(freq[0]&1)==1;
+        if (f0==0) return freq[1]>0 && freq[2]>0;
+        const int diff=abs(freq[1]-freq[2]);
+        return diff>=3;
     }
 };
