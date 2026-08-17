@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
