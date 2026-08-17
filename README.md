@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
