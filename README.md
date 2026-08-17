@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1140-stone-game-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1406-stone-game-iii) |
+| [1929-concatenation-of-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
