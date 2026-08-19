@@ -1,48 +1,30 @@
 class Solution {
 public:
-
-    vector<int> getLeftMax(vector<int>&height, int n){
-
-        vector<int> leftMax(n);
-
-        leftMax[0]  =  height[0];
-
-        for(int i = 1; i < n; i++){
-            leftMax[i] = max(leftMax[i-1], height[i]);
-        }
-
-        return leftMax;
-    }
-
-    vector<int> getRightMax(vector<int>&height, int n){
-
-        vector<int> rightMax(n);
-
-        rightMax[n-1]  =  height[n-1];
-
-        for(int i = n-2; i >= 0; i--){
-            rightMax[i] = max(rightMax[i+1], height[i]);
-        }
-
-        return rightMax;
-    }
-
-
+// This is the optimal approach where we have optimised the calculation of leftMax and RightMax using 2-pointer approach
+// The intution here is we only need min(rightMax,LeftMax) so we move according to that
     int trap(vector<int>& height) {
-        
         int n = height.size();
 
-        vector<int> leftMax = getLeftMax(height, n);
-        vector<int> rightMax = getRightMax(height, n);
+        int l = 0;
+        int r = n-1;
+        int rightMax =0;
+        int leftMax =0;
+        int ans =0;
+        
+        while(l<r){
+            rightMax = max(rightMax,height[r]);
+            leftMax = max(leftMax,height[l]);
 
-        int sum = 0;
-
-        for(int i = 0; i  < n; i++){
-            int  h = min(leftMax[i], rightMax[i]) - height[i];
-
-            sum += h;
+            if(rightMax<leftMax){
+                ans += rightMax-height[r];
+                r--;
+            }
+            else{
+                ans += leftMax-height[l];
+                l++;
+            }
         }
 
-        return sum;
+        return ans;
     }
 };
