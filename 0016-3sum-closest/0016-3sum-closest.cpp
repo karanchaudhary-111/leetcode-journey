@@ -5,9 +5,9 @@ public:
         int n = nums.size();
 
         sort(begin(nums), end(nums));
-        int ans = 100000;
+        int ans = nums[0] + nums[1] + nums[2];
 
-        for(int i = 0; i < n-1; i++){
+        for(int i = 0; i < n-2; i++){
             int a = nums[i];
             int left  = i+1;
             int right = n-1;
