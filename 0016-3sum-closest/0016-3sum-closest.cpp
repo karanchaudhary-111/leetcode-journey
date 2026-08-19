@@ -4,7 +4,7 @@ public:
         
         int n = nums.size();
 
-        sort(begin(nums), end(nums));
+        sort(nums.begin(), nums.end());
         int ans = nums[0] + nums[1] + nums[2];
 
         for(int i = 0; i < n-2; i++){
@@ -21,8 +21,10 @@ public:
 
                 if(sum > target){
                     right--;
-                }else{
+                }else if(sum < target){
                     left++;
+                }else{
+                    return sum;
                 }
             }
         }
