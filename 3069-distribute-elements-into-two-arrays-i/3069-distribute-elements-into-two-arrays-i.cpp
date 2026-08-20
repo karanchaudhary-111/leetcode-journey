@@ -1,28 +1,22 @@
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
-        vector<int> arr1, arr2;
-
-        // Step 1: Initialize first two operations
+        int n=nums.size();
+        vector<int>arr1;
+        vector<int>arr2;
         arr1.push_back(nums[0]);
         arr2.push_back(nums[1]);
-
-        // Step 2: Distribute remaining elements based on last appended values
-        for (int i = 2; i < nums.size(); i++) {
-            if (arr1.back() > arr2.back()) {
+        for(int i=2;i<n;i++){
+            if(arr1.back()>arr2.back()){
                 arr1.push_back(nums[i]);
-            } else {
+            }
+            else{
                 arr2.push_back(nums[i]);
             }
         }
-
-        // Step 3: Concatenate arr2 into arr1
-        arr1.insert(arr1.end(), arr2.begin(), arr2.end());
-
+        for(int i=0;i<arr2.size();i++){
+            arr1.push_back(arr2[i]);
+        }
         return arr1;
     }
 };
