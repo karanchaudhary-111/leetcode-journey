@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
