@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1140-stone-game-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1140-stone-game-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
@@ -336,5 +338,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 <!---LeetCode Topics End-->
