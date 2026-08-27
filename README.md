@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1140-stone-game-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1140-stone-game-ii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1386-cinema-seat-allocation](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1386-cinema-seat-allocation) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1929-concatenation-of-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
