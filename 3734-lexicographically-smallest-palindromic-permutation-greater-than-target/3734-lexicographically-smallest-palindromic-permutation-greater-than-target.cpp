@@ -1,94 +1,72 @@
 class Solution {
 public:
     string lexPalindromicPermutation(string s, string target) {
-        int n = s.length();
-        // Special case: length of 1
-        if (n == 1) {
-            return s > target ? s : "";
+        int n=s.size();
+        vector<int>hsh(26,0);
+        for(int i=0;i<n;i++){
+            hsh[s[i]-'a']++;
         }
-
-        // Count the frequency of each character
-        vector<int> cnt(26, 0);
-        for (char c : s) {
-            cnt[c - 'a']++;
-        }
-
-        // Check if it can form a palindrome and record the characters with odd
-        // occurrences
-        string oddChar = "";
-        for (int i = 0; i < 26; i++) {
-            if (cnt[i] % 2 == 1) {
-                // More than one character appears an odd number of times,
-                // cannot form a palindrome
-                if (oddChar != "") {
-                    return "";
-                }
-                oddChar = string(1, 'a' + i);
+        string ans=s;
+        int odd=0;
+        for(int i=0;i<26;i++){
+            if(hsh[i]%2!=0){
+                odd++;
+                ans[n/2]=char('a'+i);
             }
-            cnt[i] /= 2;  // It takes only half the characters to construct the
-                          // left half
+            hsh[i]/=2;
         }
-
-        string prefix = "";
-
-        auto check = [&](char c) -> bool {
-            string left = prefix;
-            left.push_back(c);
-            for (int i = 25; i >= 0; i--) {
-                left.append(cnt[i], 'a' + i);
-            }
-
-            string palindrome = left + oddChar;
-            string reversed_left = left;
-            reverse(reversed_left.begin(), reversed_left.end());
-            palindrome += reversed_left;
-
-            return palindrome > target;
-        };
-
-        // Construct the left part of each digit greedily
-        for (int i = 0; i < n / 2; i++) {
-            bool found = false;
-            // Try to place the smallest character in lexicographical order
-            for (int j = 0; j < 26; j++) {
-                if (cnt[j] == 0) {
-                    continue;
+        if(odd>1){
+            return "";
+        }
+        int p=0;
+        while(p<n/2 && hsh[target[p]-'a']){
+            hsh[target[p]-'a']--;
+            p++;
+        }
+        int start=min(n-1,p);
+        for(int i=start;i>=0;i--){
+            if(i==(n/2)){
+                for(int j=0;j<n/2;j++){
+                    ans[j] = target[j];
+                    ans[n-1-j] = target[j];
                 }
-
-                cnt[j]--;
-                if (check('a' + j)) {
-                    // If the constructed palindrome is greater than target,
-                    // choose the character
-                    prefix.push_back('a' + j);
-                    found = true;
+                if(ans > target){
+                    return ans;
+                }
+                continue;
+            }
+            int b=target[i]-'a';
+            if(i<p){
+                hsh[b]++;
+            }
+            int idx=-1;
+            for(int c=b+1;c<26;c++){
+                if(hsh[c]){
+                    hsh[c]--;
+                    idx=c;
                     break;
-                } else {
-                    cnt[j]++;  // Not meeting the conditions, reset the counter
                 }
             }
-            if (!found) {
-                return "";  // Cannot construct a palindrome larger than target
+            if(idx==-1){
+                continue;
             }
-
-            if (prefix[i] >
-                target[i]) {  // prefix is already greater than target
-                string left = prefix;
-                for (int j = 0; j < 26; j++) {
-                    left.append(cnt[j], 'a' + j);
+            for(int j=0;j<i;j++){
+                ans[j]=target[j];
+            }
+            ans[i]=char('a'+idx);
+            int k=i+1;
+            for(int c=0;c<26;c++){
+                while(k<n && hsh[c]){
+                    ans[k]=char(c+'a');
+                    k++;
+                    hsh[c]--;
                 }
-                string palindrome = left + oddChar;
-                string reversed_left = left;
-                reverse(reversed_left.begin(), reversed_left.end());
-                palindrome += reversed_left;
-                return palindrome;
             }
+            for(int j=0;j<n/2;j++){
+                ans[n-1-j]=ans[j];
+            }
+            return ans;
         }
-
-        // Construct the final palindrome string
-        string ans = prefix + oddChar;
-        string reversed_prefix = prefix;
-        reverse(reversed_prefix.begin(), reversed_prefix.end());
-        ans += reversed_prefix;
-        return ans;
+        return "";
     }
 };
