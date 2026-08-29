@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1140-stone-game-ii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
