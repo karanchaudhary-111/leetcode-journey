@@ -1,40 +1,43 @@
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> lexicographicallySmallestArray(vector<int>& nums, int limit) {
-        vector<int> numsSorted(nums);
-        sort(numsSorted.begin(), numsSorted.end());
-
-        int currGroup = 0;
-        unordered_map<int, int> numToGroup;
-        numToGroup.insert(pair<int, int>(numsSorted[0], currGroup));
-
-        unordered_map<int, list<int>> groupToList;
-        groupToList.insert(
-            pair<int, list<int>>(currGroup, list<int>(1, numsSorted[0])));
-
-        for (int i = 1; i < nums.size(); i++) {
-            if (abs(numsSorted[i] - numsSorted[i - 1]) > limit) {
-                // new group
-                currGroup++;
-            }
-
-            // assign current element to group
-            numToGroup.insert(pair<int, int>(numsSorted[i], currGroup));
-
-            // add element to sorted group list
-            if (groupToList.find(currGroup) == groupToList.end()) {
-                groupToList[currGroup] = list<int>();
-            }
-            groupToList[currGroup].push_back(numsSorted[i]);
+        int n = nums.size();
+        vector<pair<int, int>> pairs(n);
+        for (int i = 0; i < n; ++i) {
+            pairs[i] = {nums[i], i};
         }
 
-        // iterate through input and overwrite each element with the next
-        // element in its corresponding group
-        for (int i = 0; i < nums.size(); i++) {
-            int num = nums[i];
-            int group = numToGroup[num];
-            nums[i] = *groupToList[group].begin();
-            groupToList[group].pop_front();
+        // 1. Sort contiguous pairs for optimal cache performance
+        sort(pairs.begin(), pairs.end());
+
+        vector<int> group_indices;
+        group_indices.reserve(n);
+
+        // 2. Process each component in contiguous blocks
+        for (int l = 0; l < n; ) {
+            int r = l + 1;
+            while (r < n && pairs[r].first - pairs[r - 1].first <= limit) {
+                ++r;
+            }
+
+            // Collect and sort original indices for component block [l, r)
+            group_indices.clear();
+            for (int i = l; i < r; ++i) {
+                group_indices.push_back(pairs[i].second);
+            }
+            sort(group_indices.begin(), group_indices.end());
+
+            // 3. Write back directly in-place
+            for (int i = 0; i < group_indices.size(); ++i) {
+                nums[group_indices[i]] = pairs[l + i].first;
+            }
+
+            l = r;
         }
 
         return nums;
