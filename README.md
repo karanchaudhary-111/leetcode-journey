@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0724-find-pivot-index) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Prefix Sum
