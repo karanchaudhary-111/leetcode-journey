@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
 | [1329-sort-the-matrix-diagonally](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [2007-find-original-array-from-doubled-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2007-find-original-array-from-doubled-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
