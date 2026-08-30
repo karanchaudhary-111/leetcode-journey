@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0724-find-pivot-index) |
