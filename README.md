@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1929-concatenation-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1927-sum-game) |
 | [2007-find-original-array-from-doubled-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2007-find-original-array-from-doubled-array) |
 | [2029-stone-game-ix](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
