@@ -16,10 +16,10 @@ public:
             }
         }
 
-        int left = min(miniIdx, maxiIdx);
-        int right = max(miniIdx, maxiIdx);
-
-
-        return min({left + right - left + 1, n-1-right+left+2, right - left + n-1-right+1});
+        int front = max(miniIdx, maxiIdx)+1;
+        int back = n - min(miniIdx, maxiIdx);
+        int frontBack = (min(miniIdx, maxiIdx)+1) + (n-max(miniIdx, maxiIdx));
+        int minDeletion = min({front, back, frontBack});
+        return minDeletion;
     }
 };
