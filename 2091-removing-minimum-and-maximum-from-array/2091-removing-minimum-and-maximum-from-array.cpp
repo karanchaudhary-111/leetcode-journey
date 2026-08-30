@@ -19,10 +19,7 @@ public:
         int left = min(miniIdx, maxiIdx);
         int right = max(miniIdx, maxiIdx);
 
-        int front = right + 1;
-        int back = n - left;
-        int both = (left + 1) + (n - right);
 
-        return min({front, back, both});
+        return min({left + right - left + 1, n-1-right+left+2, right - left + n-1-right+1});
     }
 };
