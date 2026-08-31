@@ -1,48 +1,32 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> result = {-1, -1};
+        vector<int> idx;
 
-        // Initialize minimum distance to the maximum possible value
-        int minDistance = INT_MAX;
-
-        // Pointers to track the previous node, current node, and indices
-        ListNode* previousNode = head;
-        ListNode* currentNode = head->next;
-        int currentIndex = 1;
-        int previousCriticalIndex = 0;
-        int firstCriticalIndex = 0;
-
-        while (currentNode->next != nullptr) {
-            // Check if the current node is a local maxima or minima
-            if ((currentNode->val < previousNode->val &&
-                 currentNode->val < currentNode->next->val) ||
-                (currentNode->val > previousNode->val &&
-                 currentNode->val > currentNode->next->val)) {
-                // If this is the first critical point found
-                if (previousCriticalIndex == 0) {
-                    previousCriticalIndex = currentIndex;
-                    firstCriticalIndex = currentIndex;
-                } else {
-                    // Calculate the minimum distance between critical points
-                    minDistance =
-                        min(minDistance, currentIndex - previousCriticalIndex);
-                    previousCriticalIndex = currentIndex;
-                }
+        ListNode* prev = NULL;
+        int currIdx = 0;
+        while(head != NULL){
+            if(prev == NULL || head->next == NULL){
+                prev = head;
+                head = head->next;
+                continue;
             }
 
-            // Move to the next node and update indices
-            currentIndex++;
-            previousNode = currentNode;
-            currentNode = currentNode->next;
+            if(head->val > prev->val && head->val > head->next->val) idx.push_back(currIdx);
+            else if(head->val < prev->val && head->val < head->next->val) idx.push_back(currIdx);
+
+            prev = head;
+            head = head->next;
+            currIdx++;
         }
 
-        // If at least two critical points were found
-        if (minDistance != INT_MAX) {
-            int maxDistance = previousCriticalIndex - firstCriticalIndex;
-            result = {minDistance, maxDistance};
-        }
+        if(idx.size() == 0 || idx.size() == 1) return {-1, -1};
 
-        return result;
+        int mini = INT_MAX, maxi = INT_MIN;
+        maxi = idx[idx.size() - 1] - idx[0];
+        for(int i = 1; i < idx.size(); i++){
+            mini = min(mini, idx[i] - idx[i - 1]);
+        }
+        return {mini, maxi};
     }
 };
