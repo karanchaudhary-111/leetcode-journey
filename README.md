@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
 | [1329-sort-the-matrix-diagonally](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/3568-minimum-moves-to-clean-the-classroom) |
