@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
