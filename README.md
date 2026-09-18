@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/karanchaudhary-111/leetcode-journey/tree/master/1140-stone-game-ii) |
 ## Sliding Window
