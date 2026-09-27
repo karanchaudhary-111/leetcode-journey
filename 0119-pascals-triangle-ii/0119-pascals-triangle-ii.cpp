@@ -3,25 +3,16 @@ public:
     vector<int> getRow(int rowIndex) {
         
         int n = rowIndex;
-        vector<vector<int>> ans;
-        vector<int> res;
 
-        for(int i = 0; i <= n; i++){
+        vector<int> ans(n+1);
+        long long val = 1;
 
-            vector<int> temp(i+1, 1);
+        for(int r = 0; r <= n; r++){
+            ans[r] = val;
 
-            for(int j = 1; j < temp.size()-1; j++){
-
-                temp[j] = ans[i-1][j-1] + ans[i-1][j];
-            }
-
-            if(i == n){
-                res = temp;
-            }
-
-            ans.push_back(temp);
+            val = (val * (n - r)) / (r + 1);
         }
 
-        return res;
+        return ans;
     }
 };
