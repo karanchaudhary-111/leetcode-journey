@@ -7,20 +7,11 @@ public:
         int i = m - 1;
         int j =  n - 1;
 
-        if(m == 0){
-            for(int i = 0; i < n; i++){
-                nums1[i] = nums2[i];
-            }
-            return;
-        }
-
         while(i >= 0 && j >= 0){
             if(nums1[i] < nums2[j]){
-                nums1[s--] = nums2[j];
-                j--;
+                nums1[s--] = nums2[j--];
             }else{
-                nums1[s--] = nums1[i];
-                i--;
+                nums1[s--] = nums1[i--];
             }
         }
 
